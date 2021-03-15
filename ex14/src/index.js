@@ -1,3 +1,4 @@
+const convertToInt = require("../../ex15/src");
 
 
 //Only change code below this line
@@ -10,9 +11,9 @@ function convertStrToInt(str){
 convertStrToInt("44");
 convertStrToInt("27");
 convertStrToInt("JeffBezos");
-console.log(convertStrToInt("44"));
 
 
+console.log(convertToInt("BA"));
 
 
 
