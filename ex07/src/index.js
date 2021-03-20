@@ -1,12 +1,12 @@
 // Only change code below this line
 var sum = 0;
 function addThree() {
-  sum = sum + 3;
+   sum += + 3;
   console.log(sum);
 }
 
 function addFive() {
-  sum = sum + 5;
+  sum += 5;
   console.log(sum);
 }
 addThree();
